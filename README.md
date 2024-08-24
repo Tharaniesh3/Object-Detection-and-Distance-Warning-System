@@ -50,5 +50,5 @@ After starting the application, you can:
 
 ## Contact
 
-For any questions or further information, please contact [Instagram](https://www.instagram.com/imthaxx/).
+For any questions or further information, please contact me at [Instagram](https://www.instagram.com/imthaxx/).
 
